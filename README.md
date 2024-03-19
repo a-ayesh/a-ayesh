@@ -41,10 +41,3 @@
 </p>
 
 </div>
-
-<div> 
-  <p align="center">
-    <a href="#"><img title="Snake animation" src="./images/snake.svg">
-    </a>
-  </p>
-</div>
